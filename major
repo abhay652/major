@@ -1,0 +1,39 @@
+darknet _
+  Darknet is an open source neural network framework written in C and CUDA
+train 
+Get The Data
+Make A Dataset Config File
+Make A Network Config File! (actually we need to train the network)
+Train The Model
+Validate The Model
+
+
+what is recalll confidence 
+A precision-recall curve shows the relationship between precision (= positive predictive value) and recall (= sensitivity) for every possible cut-off. The PRC is a graph with: • The x-axis showing recall (= sensitivity = TP / (TP + FN)) • The y-axis showing precision (= positive predictive value = TP / (TP + FP))
+
+what is LSTM?
+' LSTM stands for long short-term memory networks, used in the field of Deep Learning. It is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
+
+what is RNN?
+A recurrent neural network (RNN) is a type of artificial neural network which uses sequential data or time series data
+
+what is COCO dataset?
+COCO stands for Common Objects in Context, as the image dataset was created with the goal of advancing image recognition. The COCO dataset contains challenging, high-quality visual datasets for computer vision, mostly state-of-the-art neural networks.
+
+what is YOLO V7?
+????
+
+
+what is anchor boxes?
+ Anchor boxes are a set of predefined bounding boxes of a certain height and width. These boxes are defined to capture the scale and aspect ratio of specific object classes you want to detect and are typically chosen based on object sizes in your training datasets.
+
+
+what is focal loss?
+Focal loss applies a modulating term to the cross entropy loss in order to focus learning on hard misclassified examples. It is a dynamically scaled cross entropy loss, where the scaling factor decays to zero as confidence in the correct class increases.
+
+
+what is CROSS-ENTHAPY?
+Cross-entropy loss is the sum of the negative logarithm of predicted probabilities of each data in the dataset.
+
+
+
